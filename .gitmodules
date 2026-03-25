@@ -1,0 +1,3 @@
+[submodule "SDW"]
+	path = SDW
+	url = https://github.com/DrannikovM/SDW
